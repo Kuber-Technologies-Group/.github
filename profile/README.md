@@ -98,7 +98,7 @@ Please ensure:
 
 For partnerships, support, or business inquiries:
 
-- 📧 Email: sales@quber.co.zw  
+- 📧 Email: sales@kuber.co.zw  
 - 🌍 Location: Zimbabwe  
 - 🏢 Organization: Quber Technologies Pvt Ltd
 
